@@ -1,6 +1,6 @@
-a = int(input())
-b = int(input())
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
 
 c = a + b
 
-print(c)
+print(f"sum is: {c}")
